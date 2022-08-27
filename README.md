@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&reversal=true&color=0:FFCCCC,100:FFCCFF&height=150&section=header&text=Hello,%20I'm%20JiYeon🖐&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=transparent&reversal=true&height=100&section=header&text=Hello,%20I'm%20JiYeon🖐&fontSize=45)
 
 백엔드를 공부하고 있습니다. 
 
