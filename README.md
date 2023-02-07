@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/QueryDSL-3366FF?style=for-the-badge&logo=QueryDSL&logoColor=white">
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/intellij-2C2255?style=for-the-badge&logo=intellij&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
