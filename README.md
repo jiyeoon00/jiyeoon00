@@ -49,5 +49,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswldus03)](https://solved.ac/tlswldus03)
-<img src="http://mazandi.herokuapp.com/api?handle=tlswldus03&theme=warm"/>
 </div>
